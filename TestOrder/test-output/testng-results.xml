@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13393" started-at="2020-05-28T13:38:23 EDT" finished-at="2020-05-28T13:38:36 EDT">
+  <suite name="Default suite" duration-ms="33363" started-at="2020-05-31T13:32:18 EDT" finished-at="2020-05-31T13:32:52 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13393" started-at="2020-05-28T13:38:23 EDT" finished-at="2020-05-28T13:38:36 EDT">
+    <test name="Default test" duration-ms="33363" started-at="2020-05-31T13:32:18 EDT" finished-at="2020-05-31T13:32:52 EDT">
       <class name="BigLotAutomation.TestOrder.TestOne">
-        <test-method status="PASS" signature="loop()[pri:0, instance:BigLotAutomation.TestOrder.TestOne@3b084709]" name="loop" duration-ms="13325" started-at="2020-05-28T13:38:23 EDT" finished-at="2020-05-28T13:38:36 EDT">
+        <test-method status="PASS" signature="loop()[pri:0, instance:BigLotAutomation.TestOrder.TestOne@4bbfb90a]" name="loop" duration-ms="33296" started-at="2020-05-31T13:32:18 EDT" finished-at="2020-05-31T13:32:52 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loop -->
