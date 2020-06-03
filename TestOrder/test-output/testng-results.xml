@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33363" started-at="2020-05-31T13:32:18 EDT" finished-at="2020-05-31T13:32:52 EDT">
+  <suite name="Default suite" duration-ms="34314" started-at="2020-06-02T21:33:15 EDT" finished-at="2020-06-02T21:33:50 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33363" started-at="2020-05-31T13:32:18 EDT" finished-at="2020-05-31T13:32:52 EDT">
-      <class name="BigLotAutomation.TestOrder.TestOne">
-        <test-method status="PASS" signature="loop()[pri:0, instance:BigLotAutomation.TestOrder.TestOne@4bbfb90a]" name="loop" duration-ms="33296" started-at="2020-05-31T13:32:18 EDT" finished-at="2020-05-31T13:32:52 EDT">
+    <test name="Default test" duration-ms="34314" started-at="2020-06-02T21:33:15 EDT" finished-at="2020-06-02T21:33:50 EDT">
+      <class name="BigLotAutomation.TestOrder.Add_Item_To_Cart">
+        <test-method status="PASS" signature="addItemtoCart()[pri:0, instance:BigLotAutomation.TestOrder.Add_Item_To_Cart@694e1548]" name="addItemtoCart" duration-ms="34247" started-at="2020-06-02T21:33:15 EDT" finished-at="2020-06-02T21:33:50 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loop -->
-      </class> <!-- BigLotAutomation.TestOrder.TestOne -->
+        </test-method> <!-- addItemtoCart -->
+      </class> <!-- BigLotAutomation.TestOrder.Add_Item_To_Cart -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

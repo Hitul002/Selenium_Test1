@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="BigLotAutomation.TestOrder.TestOne">
+      <class name="BigLotAutomation.TestOrder.Add_Item_To_Cart">
         <methods>
-          <include name="loop"/>
+          <include name="addItemtoCart"/>
         </methods>
-      </class> <!-- BigLotAutomation.TestOrder.TestOne -->
+      </class> <!-- BigLotAutomation.TestOrder.Add_Item_To_Cart -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
